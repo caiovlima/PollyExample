@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0exa98qgAu4goejyxQBJftJw3ouchM/OEWotMXcaj3W/006HQfwqL4q5ir6XdtDX/mDlgpls94aBDXrlQW2YJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conta\\Documents\\GitHub\\PollyExample\\PollyExample\\PollyExample\\PollyExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
